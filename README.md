@@ -26,14 +26,14 @@
 
 | SLOT | CHROME |
 |:--|:--|
-| `OPERATING SYSTEM` · core | Ja████ · Sp████ · JP████ · My████ |
-| `OPTICS` · interface | Re████ · Vi████ · Ne████ · Vu████ · Ja████ · jQ████ · HT████ |
-| `DATAFORT` · data | Or████ · Po████ · My████ · Ma████ · SQ████ |
-| `SUBNET` · infra | AW████ · OC████ · Li████ |
-| `SANDEVISTAN` · acceleration | Cl████ · Co████ |
+| `OPERATING SYSTEM` · core | ████████ `[CLASSIFIED]` |
+| `OPTICS` · interface | ████████ `[CLASSIFIED]` |
+| `DATAFORT` · data | ████████ `[CLASSIFIED]` |
+| `SUBNET` · infra | ████████ `[CLASSIFIED]` |
+| `SANDEVISTAN` · acceleration | ████████ `[CLASSIFIED]` |
 | `???` · unknown | ████████ `[ENCRYPTED]` |
 
-> `PARTIAL DATA RECOVERED // FULL ACCESS DENIED`
+> `DATA ENCRYPTED // ACCESS DENIED`
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
